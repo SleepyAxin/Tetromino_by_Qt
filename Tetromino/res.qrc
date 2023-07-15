@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/BackgroundMusic/Call Of Magic.mp3</file>
+        <file>Resource/BackgroundMusic/Faster.mp3</file>
+        <file>Resource/BackgroundPicture/Boating.jpg</file>
+        <file>Resource/BackgroundPicture/Creeper.jpg</file>
+        <file>Resource/BackgroundPicture/Impression - Forest.jpg</file>
+        <file>Resource/BackgroundPicture/Impression - Star Sky.jpg</file>
+        <file>Resource/BackgroundPicture/Impression - Sunrise.jpg</file>
+        <file>Resource/BackgroundPicture/Impression - Sunset.jpg</file>
+        <file>Resource/BackgroundPicture/PVZ.jpg</file>
+        <file>Resource/BackgroundPicture/Skyrim.jpg</file>
+        <file>Resource/BackgroundPicture/Your Name.jpg</file>
+        <file>Resource/BackgroundPicture/Impression - Desert.jpg</file>
+        <file>Resource/BackgroundPicture/Pure White.jpg</file>
+    </qresource>
+</RCC>
