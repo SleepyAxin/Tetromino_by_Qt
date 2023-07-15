@@ -42,7 +42,7 @@
 
 ## 代码继承和包含关系图
 
-![](image\俄罗斯方块代码逻辑图.png)
+![](https://github.com/SleepyAxin/Tetromino_by_Qt/blob/55bd9c20a0bce0dbdf54cbc734c0d732eaec474c/image/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E4%BB%A3%E7%A0%81%E9%80%BB%E8%BE%91%E5%9B%BE.png)
 
 ## 缺点与不足
 
